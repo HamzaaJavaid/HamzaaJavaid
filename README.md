@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaajavaid&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaajavaid" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaajavaid" alt="hamzaajavaid" /></a> </p>
+
 - 🔭 I’m currently working in Bing Tech & freelancer as well **Gapshap,FYP Tracking System are my top rated projects**
 
 - 🌱 I’m currently learning Backend Cloud Services for App development **AWS,Azure and Google**
@@ -30,3 +32,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzaajavaid&show_icons=true&locale=en&layout=compact" alt="hamzaajavaid" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzaajavaid&show_icons=true&locale=en" alt="hamzaajavaid" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaajavaid&" alt="hamzaajavaid" /></p>
