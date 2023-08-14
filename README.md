@@ -38,5 +38,4 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaaJavaid&theme=blue-green)
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+Hire Me Now to shape your amazing ideas into reality :- [Hire Me Now](https://www.fiverr.com/hamzajavaid_hj)
