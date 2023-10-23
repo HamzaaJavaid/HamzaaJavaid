@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋,  Hamza Javaid's here </h1>
 <h3 align="center">Lead App Developer | Lead CPC | Speaker </h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaajavaid&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaajavaid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaajavaid" alt="hamzaajavaid" /></a> </p>
