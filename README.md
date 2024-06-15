@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzaajavaid" alt="hamzaajavaid" /></a> </p>
 
-- 🔭 I’m currently working in  **IplexSoft as an Senior Software Developer & Technical Project Lead**
+- 🔭 I’m currently working in  **IplexSoft as an Senior Software Developer & Technical Team Lead**
 
 - 🌱 I’m currently learning Backend Cloud Services for App development **AWS,Azure and Google**
 
